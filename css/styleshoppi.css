@@ -1,0 +1,37 @@
+.col-item{
+  width: 100%;
+  height: auto;
+}
+.pro-pic img{
+  width: 100%;
+  height: auto;
+}
+
+.shop {
+  margin: 0px;
+      padding: auto;
+      border-radius: 100px;
+      background-color: #9d544d;
+      color: #fff;
+    }
+
+.pro-pic{
+  border: solid 3px #d0dfd7;
+    background-color: #d0dfd7;
+    width: 100%;
+    height: auto;
+}
+
+
+.col-item{
+    background-color: #d0dfd7;
+    font-family: 'supermarketregular';
+    padding-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+
+.shop-detail h5{
+  margin-left: 20px;
+}

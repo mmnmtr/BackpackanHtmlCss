@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  color: #fff;
+  text-align: center;
+  font-family: 'supermarketregular';
+}
+
+
+.count li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 0.5em;
+  text-transform: uppercase;
+}
+
+.count li span {
+  display: block;
+  font-size: 4.5rem;
+}
+
+.picshopp img{
+   width: 50%;
+   height: auto;
+}
+
+.picshop h1{
+  font-family: 'eliantoregular';
+}
+.picshop h2{
+  font-family: 'eliantoregular';
+  font-size: 2em;
+}
+
+.bgshop{
+  width: 100%;
+  background-color: #4b6b5b;
+  margin-top: 30px;
+}
+.ccen{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
